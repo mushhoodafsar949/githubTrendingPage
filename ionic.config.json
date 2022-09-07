@@ -1,0 +1,7 @@
+{
+  "name": "GithubClone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
